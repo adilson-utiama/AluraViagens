@@ -97,6 +97,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
+        android:digits="abcdefghijklmnopqrstuvwxyzçABCDEFGHIJKLMNOPQRSTUVWXYZÇ "
         android:hint="@string/nome_no_cartao"
         android:inputType="text"
         app:layout_constraintEnd_toEndOf="@+id/pagamento_cvc_cartao"
